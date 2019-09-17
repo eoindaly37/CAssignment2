@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555068876 source:c:\users\dalye\desktop\c\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"game_functions.h"
+
+1555068793 c:\users\dalye\desktop\c\assignment2\game_functions.h
+
+1555515614 source:c:\users\dalye\desktop\c\assignment2\game_functions.c
+	<stdio.h>
+	<stdbool.h>
+	<ctype.h>
+	"game_functions.h"
+
